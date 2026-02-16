@@ -29,3 +29,12 @@ I'm a MERN Stack Developer passionate about building scalable and modern web app
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/SadhnaPaswan
+- ## 💻 Programming Languages
+
+I have experience working with the following programming languages:
+
+- **JavaScript** – for web development, frontend, and backend (Node.js)
+- **TypeScript** – for strongly-typed JavaScript projects
+- **Java** – for object-oriented programming and backend applications
+- **C** – for low-level programming and problem-solving
+
