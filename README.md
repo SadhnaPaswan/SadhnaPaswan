@@ -1,40 +1,61 @@
-# 👋 Hi, I'm Sadhna Paswan
+# Hi, I'm Sadhna Paswan 👋
 
-## 🚀 About Me
-I'm a MERN Stack Developer passionate about building scalable and modern web applications.
+### MERN Stack Developer | Full-Stack Web Developer
 
-- 🔭 Currently working on Full Stack Projects
-- 🌱 Learning Advanced React & Backend
-- 💻 Love clean and efficient code
-- 🎯 Goal: Become a professional Software Engineer
+I'm a passionate Full-Stack Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical solutions using JavaScript technologies and continuously improving my development skills.
+
+I'm interested in working on real-world projects, collaborating with developers, and growing as a Software Engineer.
+
+- 🔭 Building full-stack web applications using the MERN stack
+- 🌱 Exploring Next.js, TypeScript, and scalable backend development
+- 💡 Interested in clean code, responsive UI, REST APIs, and problem-solving
+- 🤝 Open to internships, entry-level roles, and Full-Stack Developer opportunities
 
 ---
 
-## 🛠 Skills
+### 🛠️ Tech Stack
 
-### Frontend
+**Frontend Development**
 - React.js
 - Next.js
+- HTML5
+- CSS3
 - Tailwind CSS
-- HTML
-- CSS
 
-### Backend
+**Backend Development**
 - Node.js
 - Express.js
+- REST APIs
+
+**Database & Tools**
 - MongoDB
-- REST API Development
+- Git & GitHub
+- VS Code
+- Postman
+
+**Programming Languages**
+- JavaScript
+- TypeScript
+- Java
+- C
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/SadhnaPaswan
-- ## 💻 Programming Languages
 
-I have experience working with the following programming languages:
+### 📊 GitHub Statistics
 
-- **JavaScript** – for web development, frontend, and backend (Node.js)
-- **TypeScript** – for strongly-typed JavaScript projects
-- **Java** – for object-oriented programming and backend applications
-- **C** – for low-level programming and problem-solving
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadhnaPaswan&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadhnaPaswan&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🤝 Connect With Me
+
+- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 📧 Email: YOUR_EMAIL_ADDRESS
+- 💻 GitHub: [@SadhnaPaswan](https://github.com/SadhnaPaswan)
+
+---
+
+⭐ *I'm always eager to learn, build, collaborate, and explore new opportunities.*
