@@ -48,6 +48,14 @@ I'm interested in working on real-world projects, collaborating with developers,
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadhnaPaswan&layout=compact&theme=tokyonight&hide_border=true)
 
+<p align="left">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SadhnaPaswan&theme=tokyonight" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SadhnaPaswan&layout=compact&theme=tokyonight" />
+
+</p>
+
 ---
 
 ### 🤝 Connect With Me
